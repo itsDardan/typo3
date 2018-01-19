@@ -1,0 +1,28 @@
+/* Kolona e 4-te ne rreshtin e 1 */
+
+.powermail_radio_inner.powermail_radio_inner_uid10012_3 b:nth-child(1){ 
+  font-size: 12px;
+  padding-top: 5px;
+  font-style: italic;
+ }
+.powermail_radio_inner.powermail_radio_inner_uid10012_3 b:nth-child(2){ 
+  font-size: 15px;
+  padding-top: 5px;
+ }
+ .powermail_radio_inner.powermail_radio_inner_uid10012_3 img:nth-child(3){ 
+  padding-top: 25px;
+ }
+ .powermail_radio_inner.powermail_radio_inner_uid10012_3 b:nth-child(4){ 
+  font-size: 15px;
+  padding-top: 25px;
+ }
+ .powermail_radio_inner.powermail_radio_inner_uid10012_3 b:nth-child(5){ 
+  font-size: 15px;
+  padding-top: 25px;
+  font-style: italic;
+  font-weight: 100;
+  }
+  .powermail_radio_inner.powermail_radio_inner_uid10012_3 b:nth-child(6){ 
+  font-size: 15px;
+  padding-top: 84px;
+ }
